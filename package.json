@@ -1,0 +1,24 @@
+{
+    "name": "sockets",
+    "version": "1.0.0",
+    "description": "crear app con socket.io",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/IrvingOgaz/sockets.git"
+    },
+    "author": "irving ogaz",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/IrvingOgaz/sockets/issues"
+    },
+    "homepage": "https://github.com/IrvingOgaz/sockets#readme",
+    "dependencies": {
+      "express": "^4.19.2",
+      "save": "^2.9.0",
+      "socket.io": "^4.7.5"
+    }
+  }
